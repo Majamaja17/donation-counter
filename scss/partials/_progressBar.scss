@@ -1,0 +1,20 @@
+.progress {
+	height: 50px;
+	border-radius: 1rem;
+	background: #e6e5e2;	
+	box-shadow: 0 -1px 1px #c0bfbc inset;
+	max-width: 310px;
+	padding: 5px;
+	margin: 50px 0 50px;
+}
+
+.bar {
+	height: 40px;
+    width: 0px; 
+	border-radius: 1rem;
+    color: white; 
+    text-align: center;
+	box-shadow: 0 -1px 1px #333;
+	background-color: #666;
+	max-width: 300px;
+}
