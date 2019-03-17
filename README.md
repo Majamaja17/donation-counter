@@ -1,1 +1,2 @@
 # licznik1
+https://majamaja17.github.io/licznik1/
