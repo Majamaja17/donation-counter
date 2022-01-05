@@ -1,2 +1,2 @@
 # donation-counter
-https://majamaja17.github.io/licznik1/
+https://majamaja17.github.io/donation-counter/
